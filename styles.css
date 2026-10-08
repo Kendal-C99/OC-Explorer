@@ -65,7 +65,7 @@ a:hover { text-decoration: underline; }
 .hero {
   background-image:
     linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)),
-    url("images%3A%20copy/beach.avif");
+    url("beach.avif");
   background-size: cover;
   background-position: center;
   min-height: 360px;
@@ -217,7 +217,7 @@ a:hover { text-decoration: underline; }
 }
 
 .img-a {
-  background-image: url("images%3A%20copy/selannes.jpeg");
+  background-image: url("selannes.jpeg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
@@ -226,7 +226,7 @@ a:hover { text-decoration: underline; }
 }
 
 .img-b {
-  background-image: url("images%3A%20copy/southswell.jpeg");
+  background-image: url("southswell.jpeg");
   background-size: contain;
   background-position: center;
   background-repeat: no-repeat;
